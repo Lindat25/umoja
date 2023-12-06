@@ -135,17 +135,19 @@
         </p>
       </div>
     </v-col>
+
     <v-col cols="12" md="4">
       <div class="features-icon-box">
         <div class="features-icon">
-          <img src="/static/images/crop.jpg" alt="edit" />
+          <img src="/static/images/dis.jpg" alt="edit" />
         </div>
-        <h5 class="mb-2">CROP AREAS</h5>
+        <h5 class="mb-2">DISEASE PREDICTION</h5>
         <p class="features-icon-description">
-          MONITORING CROP AREAS
+          PLANT DISEASE PREDICTIONS
         </p>
       </div>
     </v-col>
+
   </v-row>
   <v-row class="features-icon-wrapper">
     <v-col cols="12" md="4">
@@ -159,17 +161,19 @@
         </p>
       </div>
     </v-col>
+
     <v-col cols="12" md="4">
       <div class="features-icon-box">
         <div class="features-icon">
-          <img src="/static/images/dis.jpg" alt="edit" />
+          <img src="/static/images/crop.jpg" alt="edit" />
         </div>
-        <h5 class="mb-2">DISEASE PREDICTION</h5>
+        <h5 class="mb-2">CROP AREAS</h5>
         <p class="features-icon-description">
-          PLANT DISEASE PREDICTIONS
+          MONITORING CROP AREAS
         </p>
       </div>
     </v-col>
+  
     <v-col cols="12" md="4">
       <div class="features-icon-box">
         <div class="features-icon">
