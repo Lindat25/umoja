@@ -6,209 +6,215 @@
     <div class="landing-page">
       
       <div id="home" class="home-section" style="background-image: url('/static/images/s.jpg'); background-repeat: no-repeat; background-size: cover;">
-        <div class="services-hero-content">
-          <p class="platform-paragraph"><i class="mdi mdi-minus"></i><i class="mdi mdi-minus"></i><i class="mdi mdi-minus" style="padding-right: 30px;"></i>WELCOME TO </p>
-          <h1 class="heading" style="font-size: 50px;">UMOJALANDS</h1>
-          <p class="platform-paragraph">A platform for:</p>
-          <ul>
-            <li>Data-driven lending</li>
-            <li>Insurance</li>
-            <li>Market linkage</li>
-          </ul>
-          <p>Providing support for rural smallholder farmers.</p>
-
-          <div class="action-btn mt-4">
-                <a href="#services" class="btn solid-btn hero">SERVICES</a>
-                <div class="btn-stroke"></div>
-            </div>
-
-        </div>
-      </div>
-     
-  <div id="about" class="about-section">
-        <h1 class="text-center fw-semibold d-flex justify-content-center align-items-center mb-4 team-heading">
-          <span class="text-uppercase">Who We Are</span>
-        </h1>
-      <div class="about-us">
-        <div class="grid text-center">
-          <div class="g-col-6 d-flex align-items-center">
-            <div class="text">
-              <h1 class="mb-3">UMOJALANDS SYSTEM</h1>
-              <hr>
-                <div class="spacer"></div>
-              <p class="aligned-paragraph" style="padding-bottom: 20px; padding-top: 20px;">Modern agriculture is filled with big data that is rarely used.
-                Combining predictive analytics and precision agriculture,
-                the system converts field data into actionable insights.
-                Umojalands is all about finding valuable patterns during the
-                loan application processes and helping risk officers make better
-                and more precise decisions without leaving the office.
-                At Umojalands we offer 3 digital services to improve food security
-                in Zimbabwe and southern Africa, through land utilization, access to
-                finance for small holder farmers and advisory services on precision farming.
-              </p>
-              <button class="custom-btn">
-                <a href="#services">MORE SERVICES</a>
-              </button>
-            </div>
-          </div>
-          <div class="g-col-6">
-            <div class="image">
-              <img src="/static/images/about.jpg" alt="About Us Image" />
-            </div>
-          </div>
-        </div>
-      </div>  
-</div>
-     
-    <div id="services" class="services-section" style="background-color: rgb(217, 217, 221);">
-      <div class="container">
-        <h4 class="text-center fw-semibold d-flex justify-content-center align-items-center mb-4">
-          <i class="mdi mdi-star me-2" style="padding-top: 30px;"></i>
-          <span class="text-uppercase fw-bold" style="padding-top: 30px;">SERVICES WE PROVIDE</span>
-        </h4>
-        <div class="features-icon-wrapper" style="padding-top: 30px;">
-        <div class="features-icon-box">
-          <div class="features-icon">
-            <img src="/static/images/soil.jpg" alt="laptop charging" />
-          </div>
-          <h5 class="mb-2">MANAGE SOIL NUTRIENTS</h5>
-          <p class="features-icon-description">
-            Create intelligent fertility maps to plan precision flight by drones to fix nutrient defects.
-          </p>
-        </div>
-        <div class="features-icon-box">
-          <div class="features-icon">
-            <img src="/static/images/crop.jpg" alt="transition up" />
-          </div>
-          <h5 class="mb-2">CROP HEALTH ALERT</h5>
-          <p class="features-icon-description">
-            Farmer gets near realtime SMS alert or phone call on crop health in their local language.
-          </p>
-        </div>
-        <div class="features-icon-box">
-          <div class="features-icon">
-            <img src="/static/images/pests.png" alt="edit" />
-          </div>
-          <h5 class="mb-2">MITIGATE PEST ATTACK</h5>
-          <p class="features-icon-description">
-            An IoT rig that collects pest population data, generate early warning and pesticide advice.
-          </p>
-        </div>
-        <div class="features-icon-box">
-          <div class="features-icon">
-            <img src="/static/images/yield.jpg" alt="edit" />
-          </div>
-          <h5 class="mb-2">CROP YIELD PREDICTION</h5>
-          <p class="features-icon-description">
-            Get a data-driven, personalized risk report for a farm/crop; specially useful for investors.
-          </p>
-        </div>
-      </div>
-     </div>
-
-      <div class="container">
-        <h4 class="text-center fw-semibold d-flex justify-content-center align-items-center mb-4">
-          <i class="mdi mdi-star me-2" style="padding-bottom: 30px;"></i>
-          <span class="text-uppercase " style="padding-bottom: 30px;">SIMPLIFYING AND BOOSTS AGRICULTURAL FINANCE GROWTH</span>
-        </h4>
-        <div class="features-icon-wrapper row">
-          <div class="col-md-4 my-custom-class">
-            <div class="features-icon-box">
-              <div class="features-icon">
-                <img src="/static/images/loan.jpg" alt="laptop charging" />
-              </div>
-              <h5 class="mb-2">LOAN MANAGEMENT</h5>
-              <p class="features-icon-description">
-                AUTOMATED LOAN MANAGEMENT
-              </p>
-            </div>
-          </div>
-          <div class="col-md-4 my-custom-class">
-            <div class="features-icon-box">
-              <div class="features-icon">
-                <img src="/static/images/credit.jpg" alt="transition up" />
-              </div>
-              <h5 class="mb-2">CREDIT SCORE</h5>
-              <p class="features-icon-description">
-                CREDIT SCORING WITH AI
-              </p>
-            </div>
-          </div>
-          <div class="col-md-4 my-custom-class">
-            <div class="features-icon-box">
-              <div class="features-icon">
-                <img src="/static/images/crop.jpg" alt="edit" />
-              </div>
-              <h5 class="mb-2">CROP AREASK</h5>
-              <p class="features-icon-description">
-                MONITORING CROP AREAS
-              </p>
-            </div>
-          </div>
-          <div class="col-md-4 my-custom-class">
-            <div class="features-icon-box">
-              <div class="features-icon">
-                <img src="/static/images/hist.jpg" alt="edit" />
-              </div>
-              <h5 class="mb-2">FIELD DATA</h5>
-              <p class="features-icon-description">
-                FULL HISTORICAL FIELD DATA
-              </p>
-            </div>
-          </div>
-
-          <div class="col-md-4 my-custom-class">
-            <div class="features-icon-box">
-              <div class="features-icon">
-                <img src="/static/images/neural.jpg" alt="edit" />
-              </div>
-              <h5 class="mb-2">SCORING</h5>
-              <p class="features-icon-description">
-                NEURAL NETWORKS IN SCORING
-              </p>
-            </div>
-          </div>
-          <div class="col-md-4 my-custom-class">
-            <div class="features-icon-box">
-              <div class="features-icon">
-                <img src="/static/images/dis.jpg" alt="edit" />
-              </div>
-              <h5 class="mb-2">DISEASE PREDICTION</h5>
-              <p class="features-icon-description">
-                PLANT DISEASE PREDICTIONS
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    
-  
-    <div id="extension" class="extension-section" style="background-color: rgb(217, 217, 221);">
-      <v-section style="background-color: #2a16af;">
         <v-container fluid>
-          <div class="grid-container">
-            <div class="image-container">
-              <div class="bg-img" :style="{ backgroundImage: 'url(/static/images/health.jpg)', minHeight: '500px' }"></div>
-            </div>
-            <div class="text-container">
-              <h4>Remote Crop Advisory Services (e-Extension)</h4>
-              <p class="lead aligned-paragraph">Once subscribed, farmers get "near" real-time, data-driven, and personalized farming advice via SMS, voice call, in-app notification, or in-person.</p>
-              <p class="aligned-paragraph">We use satellite technology to monitor soil nutrients and crop health remotely, then provide essential advice and recommendations to the farmers. This is a game-changer for most rural smallholder farmers and communities where there is weak or non-existent government-run agricultural extension service. Our advice is vital for improving farming practices and increasing yield for a fraction of the costs.</p>
-              <p>Once you've captured your farm coordinates, we can:</p>
-              <ul class="ordered-list">
-                <li class="list-item">Analyze your farm's soil fertility and calculate your fertilizer requirement for a good harvest.</li>
-                <li class="list-item">Send you weekly updates on crop health till harvest.</li>
-                <li class="list-item">Suggest the best time to harvest based on current and previous seasons' data.</li>
-                <li class="list-item">Provide recommendations on farm inputs that fit your environment, among others.</li>
-              </ul>
-              <br>
-            </div>
-          </div>
+          <v-row>
+            <v-col cols="12" sm="6" md="4">
+              <div class="services-hero-content">
+                <p class="platform-paragraph"><i class="mdi mdi-minus"></i><i class="mdi mdi-minus"></i><i class="mdi mdi-minus" style="padding-right: 30px;"></i>WELCOME TO </p>
+                <h1 class="heading">UMOJALANDS</h1>
+                <p class="platform-paragraph">A platform for:</p>
+                <ul>
+                  <li>Data-driven lending</li>
+                  <li>Insurance</li>
+                  <li>Market linkage</li>
+                </ul>
+                <p>Providing support for rural smallholder farmers.</p>
+
+                <div class="action-btn mt-4">
+                  <a href="#services" class="btn solid-btn hero">SERVICES</a>
+                  <div class="btn-stroke"></div>
+                </div>
+              </div>
+            </v-col>
+          </v-row>
         </v-container>
-      </v-section>
-    </div>
+      </div>
+     
+      <div id="about" class="about-section" style="display: flex; justify-content: center; align-items: center;">
+        <v-container class="text-center" style="margin-left: 30px; margin-right: 30px;">
+          <h1 class="text-center fw-semibold mb-4 team-heading">
+            <span class="text-uppercase">Who We Are</span>
+          </h1>
+          <v-row class="about-us">
+            <v-col cols="12" md="6">
+              <div class="text">
+                <h1 class="mb-3">UMOJALANDS SYSTEM</h1>
+                <hr>
+                <v-spacer></v-spacer>
+                <p class="aligned-paragraph" style="padding-bottom: 20px; padding-top: 20px; margin-right: 50px;" >
+                  Modern agriculture is filled with big data that is rarely used. Combining predictive analytics and precision agriculture, the system converts field data into actionable insights. Umojalands is all about finding valuable patterns during the loan application processes and helping risk officers make better and more precise decisions without leaving the office. At Umojalands, we offer 3 digital services to improve food security in Zimbabwe and southern Africa, through land utilization, access to finance for smallholder farmers, and advisory services on precision farming.
+                </p>
+                <div class="action-btn mt-4">
+                  <a href="#services" class="btn solid-btn hero">SERVICES</a>
+                  <div class="btn-stroke"></div>
+                </div>
+              </div>
+            </v-col>
+            <v-col cols="12" md="6">
+              <div class="image">
+                <img src="/static/images/about.jpg" alt="About Us Image" />
+              </div>
+            </v-col>
+          </v-row>
+        </v-container>
+      </div>
+     
+      <div id="services" class="services-section">
+        <div class="container">
+        <header class="section-header">
+          <h2 class="display-3">What We Do</h2>
+          <hr>
+        </header>
+      <div class="row gap-y">
+        <div class="col-md-4 card p-5 shadow-2">
+            <p><i class="icon-lightbulb lead-7 text-success"></i></p>
+            <h5 class="fw-500 my-4">e-Extension Service</h5>
+            <p >Crop intelligence solution using big data to generate data-driven insights on: Soil composition & quality,  Crop suitability,  and Crop health diagnosis. Get a smart guide for optimal decision making via SMS.</p>
+        
+        </div>
+        <div class="col-md-4 card p-5 shadow-2">
+          
+            <p><i class="icon-wallet lead-7 text-success"></i></p>
+            <h5 class="fw-500 my-4">MANAGE SOIL NUTRIENTS</h5>
+            <p class="mb-0">Create intelligent fertility maps to plan precision flight by drones to fix nutrient defects.
+            </p>
+          
+        </div>
+        <div class="col-md-4 card p-5 shadow-2">
+          
+            <p><i class="icon-gears lead-7 text-success"></i></p>
+            <h5 class="fw-500 my-4">CROP HEALTH ALERT</h5>
+            <p class="mb-0">Farmer gets near real-time SMS alert or phone call on crop health in their local language.
+            </p>
+          
+        </div>
+        <div class="col-md-4 card p-5 shadow-2">
+          
+            <p><i class="icon-dial lead-7 text-success"></i></p>
+            <h5 class="fw-500 my-4">MITIGATE PEST ATTACK</h5>
+            <p class="mb-0">An IoT rig that collects pest population data, generates early warning, and provides pesticide advice.</p>
+         
+        </div>
+        <div class="col-md-4 card p-5 shadow-3">
+          
+            <p><i class="icon-gears lead-7 text-success"></i></p>
+            <h5 class="fw-500 my-4">CROP YIELD PREDICTION</h5>
+            <p class="mb-0">Get a data-driven, personalized risk report for a farm/crop; especially useful for investors.</p>
+         
+        </div>
+      
+      </div>
+    
+
+
+    <v-container>
+      <h4 class="text-center mb-4" style="padding-top: 60px; ">
+        <v-icon class="mdi mdi-star mr-2"></v-icon>
+        <span class="text-uppercase pt-30" >SIMPLIFYING AND BOOSTING AGRICULTURAL FINANCE GROWTH</span>
+      </h4>
+      <v-row class="features-icon-wrapper">
+    <v-col cols="12" md="4">
+      <div class="features-icon-box">
+        <div class="features-icon">
+          <img src="/static/images/loan.jpg" alt="laptop charging" />
+        </div>
+        <h5 class="mb-2">LOAN MANAGEMENT</h5>
+        <p class="features-icon-description">
+          AUTOMATED LOAN MANAGEMENT
+        </p>
+      </div>
+    </v-col>
+    <v-col cols="12" md="4">
+      <div class="features-icon-box">
+        <div class="features-icon">
+          <img src="/static/images/credit.jpg" alt="transition up" />
+        </div>
+        <h5 class="mb-2">CREDIT SCORE</h5>
+        <p class="features-icon-description">
+          CREDIT SCORING WITH AI
+        </p>
+      </div>
+    </v-col>
+    <v-col cols="12" md="4">
+      <div class="features-icon-box">
+        <div class="features-icon">
+          <img src="/static/images/crop.jpg" alt="edit" />
+        </div>
+        <h5 class="mb-2">CROP AREAS</h5>
+        <p class="features-icon-description">
+          MONITORING CROP AREAS
+        </p>
+      </div>
+    </v-col>
+  </v-row>
+  <v-row class="features-icon-wrapper">
+    <v-col cols="12" md="4">
+      <div class="features-icon-box">
+        <div class="features-icon">
+          <img src="/static/images/hist.jpg" alt="edit" />
+        </div>
+        <h5 class="mb-2">FIELD DATA</h5>
+        <p class="features-icon-description">
+          FULL HISTORICAL FIELD DATA
+        </p>
+      </div>
+    </v-col>
+    <v-col cols="12" md="4">
+      <div class="features-icon-box">
+        <div class="features-icon">
+          <img src="/static/images/dis.jpg" alt="edit" />
+        </div>
+        <h5 class="mb-2">DISEASE PREDICTION</h5>
+        <p class="features-icon-description">
+          PLANT DISEASE PREDICTIONS
+        </p>
+      </div>
+    </v-col>
+    <v-col cols="12" md="4">
+      <div class="features-icon-box">
+        <div class="features-icon">
+          <img src="/static/images/neural.jpg" alt="edit" />
+        </div>
+        <h5 class="mb-2">SCORING</h5>
+        <p class="features-icon-description">
+          NEURAL NETWORKS IN SCORING
+        </p>
+      </div>
+    </v-col>
+  </v-row>
+    </v-container>
+  </div>
+  </div>
+
+  
+  
+  <div id="extension" class="extension-section" style="display: flex; justify-content: center; align-items: center;">
+    <div class="container">
+    <v-container class="text-center" style="margin-left: 30px; margin-right: 30px;">
+    <v-row align="center">
+      <v-col cols="12" md="7" class="mx-auto">
+        <header class="section-header">
+          <h2 class="display-3" style="padding-top: 80px;">E-Extension Services</h2>
+          <hr>
+        </header>
+        <p class="lead-2 aligned-paragraph">
+          Once subscribed, farmers get "near" real-time, data-driven, and personalized farming advice via SMS, voice call, in-app notification, or in-person.
+          We use satellite technology to monitor soil nutrients and crop health remotely, then provide essential advice and recommendations to the farmers. This is a game-changer for most rural smallholder farmers and communities where there is weak or non-existent government-run agricultural extension service. Our advice is vital for improving farming practices and increasing yield for a fraction of the costs.
+          Once you've captured your farm coordinates, we can:
+        </p>
+        <ul class="ordered-list">
+          <li class="list-item">Analyze your farm's soil fertility and calculate your fertilizer requirement for a good harvest.</li>
+          <li class="list-item">Send you weekly updates on crop health till harvest.</li>
+          <li class="list-item">Suggest the best time to harvest based on current and previous seasons' data.</li>
+          <li class="list-item">Provide recommendations on farm inputs that fit your environment, among others.</li>
+        </ul>
+      </v-col>
+    </v-row>
+  </v-container>
+</div>
+</div>
+
+
 
 
     <div id="contact" class="contact-section" style="background-color: rgb(217, 217, 221);">
@@ -248,9 +254,10 @@
       <div id="team" class="team-section" style="background-color: #f2f2f2;">
         <section id="landingTeam" class="section-py landing-team">
           <div class="container bg-icon-right">
-            <h1 class="text-center fw-semibold d-flex justify-content-center align-items-center mb-4 team-heading">
-              <span class="text-uppercase">OUR TEAM</span>
-            </h1>
+            <header class="section-header">
+          <h2 class="display-3" >Meet The Team</h2>
+          <hr>
+        </header>
             <div class="row gy-5 mt-2">
               <div class="col-lg-3 col-sm-6" v-for="member in teamMembers" :key="member.id">
                 <div :class="['card', member.cardClass, 'mt-3 mt-lg-0', 'shadow-none']">
@@ -262,7 +269,7 @@
                     <p class="card-text">{{ member.role }}</p>
                     <div class="text-center team-media-icons">
                       <a href="javascript:void(0);" class="text-heading" target="_blank" v-for="social in member.socialMedia" :key="social.iconClass">
-                        <i :class="['tf-icons', social.iconClass, 'me-2']" style="color: green;"></i>
+                        <i :class="['tf-icons', social.iconClass, 'me-2']" style="color: grey;"></i>
                       </a>
                     </div>
                   </div>
@@ -271,8 +278,9 @@
             </div>
           </div>
         </section>
-
       </div>
+
+  
 
 
 
@@ -393,7 +401,19 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
+.services-section {
+ 
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.features-icon-wrapper {
+  padding-top: 30px;
+}
+
+
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -454,7 +474,62 @@ export default {
   height: 200;
 }
 .services-section{
-  height: 190vh;
+  height: 200vh;
+}
+
+/* Media Queries for Responsive Heights */
+@media (max-width: 1000px) {
+  .extension-section {
+    height: 300vh;
+  }
+
+  .contact-section {
+    height: 100vh;
+  }
+
+  .home-section {
+    height: 100vh;
+  }
+
+
+@media (max-width: 1000px) {
+  .extension-section {
+    height: 200vh;
+  }
+
+  .contact-section {
+    height: 100vh;
+  }
+
+  .home-section {
+    height: 80vh;
+  }
+
+  .team-section {
+    height: 450vh;
+  }
+
+
+  .services-section {
+    height: 450vh;
+  }
+
+  .heading {
+    font-size: 30px;
+  }
+}
+
+@media (min-width: 600px) {
+  .heading {
+    font-size: 50px;
+  }
+}
+
+.home-section {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
 }
 
 
@@ -517,44 +592,12 @@ export default {
   max-width: 100%;
 }
 
-.vertical-center {
-  display: flex;
-  align-items: center;
-}
 
 ul {
     list-style: none;
   }
 
-  
 
-  .services-wrapper {
-    padding: 50px;
-   
-}
-
-.adjusted-width {
-  width: 800px;
-  height:300px;
-
-}
-
-.services-wrapper {
-  background-color: #f2f2f2;
-}
-
-.services-title {
-    color: #333; 
-    font-size: 24px; 
-    font-weight: bold; 
-    text-transform: uppercase; 
-    text-align: center; 
-    margin-top: 40px; 
-  }
-
-.services h2 {
-  padding-bottom: 20px;
-}
 
 
 .services-hero-content {
@@ -573,18 +616,8 @@ ul {
   font-size: 18px;
 }
 
-.services-hero-section {
-    position: relative;
-    background-size: cover;
-    background-position: center;
-    height: 700px; 
-    display: flex;
-    align-items: center;
-  }
-
   .services-hero-content {
     text-align: left;
-    color: #ffffff;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -601,27 +634,6 @@ ul {
   .services-hero-content p {
     font-size: 18px;
   }
-
-.g-col-6 {
-  padding: 20px;
-}
-
-
-.hero-image-container {
-  text-align: center;
-  margin-top: 20px;
-}
-
-.hero-image {
-  width: 100%;
-  max-width: 1000px;
-}
-
-.hero-text-box {
-  text-align: center;
-  padding-top: 50px;
-  padding-bottom: 50px;
-}
 
 .hero-title {
   margin-top: 0;
@@ -641,30 +653,7 @@ ul {
   .container {
     padding: 30px; 
   }
-  .hero-title {
-    color: #5b7ea7; 
-    font-size: 50px; 
-    font-weight: bold; 
-    text-transform: uppercase; 
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); 
-    letter-spacing: 2px; 
-    text-align: center; 
-    margin: 0; 
-    padding: 20px 0; 
-  }
 
-  .list {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-gap: 10px;
-}
-
-
-
-.icon-image {
-  width: 100%;
-  height: auto;
-}
 
 
 .features-icon-wrapper {
@@ -688,36 +677,7 @@ ul {
     height: 200px;
   }
 
-  .my-custom-class {
-  background-color: #f0f0f0; 
-  padding: 10px; 
-}
-
-.grid-container {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.image-container {
-  flex: 0 0 30%;
-  max-width: 50%;
-}
-
-.text-container {
-  flex: 0 0 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  max-width: 70%;
-  padding-left: 20px;
-  background-color: #a9c0ae; 
-}
-
-.bg-img {
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+ 
 
 
 .text-container h4{
