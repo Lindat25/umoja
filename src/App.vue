@@ -506,12 +506,12 @@ export default {
   }
 
   .team-section {
-    height: 450vh;
+    height: 320vh;
   }
 
 
   .services-section {
-    height: 450vh;
+    height: 430vh;
   }
 
   .heading {
